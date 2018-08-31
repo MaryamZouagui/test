@@ -1,3 +1,5 @@
-<?php 
-echo"bla bla bli";
-?> 
+<?php
+echo "tiiist git";
+echo "essai2";
+
+?>
